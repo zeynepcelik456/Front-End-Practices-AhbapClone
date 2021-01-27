@@ -1,0 +1,68 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.navlogo {
+    width: 105px;
+}
+
+.iconcolor {
+    color: dimgrey;
+    height: 30px;
+}
+
+.carousel-control-prev-icon {
+    width: 50px;
+    height: 50px;
+}
+
+.carousel-control-next-icon {
+    width: 50px;
+    height: 50px;
+}
+
+.mainimg {
+    width: 600px;
+    height: 280px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.color-white {
+    background-color: white;
+
+}
+.twhite{
+    
+    color:white
+}
+
+.cardmain {
+    border-radius: 20px;
+    width: 50%;
+   
+    background-size: cover;
+}
+
+.cardimg
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.img4card{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.card-shadow {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 20px;
+    border : none;
+  }
+  
+
